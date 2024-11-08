@@ -1,11 +1,11 @@
 # React + Vite
 
-Run Code A Weather Dashboard App
-Search a city and display the current weather and 5-day forecast.
-Add cities to a list of favorites.
-Remove cities from the list of favorites.
-Display weather data for favorite cities same dashboard.
-saw last search city localStoarage add favorits city (http://localhost:3000/favorites)
+1.Run Code A Weather Dashboard App
+2.Search a city and display the current weather and 5-day forecast.
+3.Add cities to a list of favorites.
+4.Remove cities from the list of favorites.
+5.Display weather data for favorite cities same dashboard.
+6.saw last search city localStoarage add favorits city (http://localhost:3000/favorites)
 
 Currently, two official plugins are available:
 
