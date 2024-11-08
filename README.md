@@ -1,6 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Run Code A Weather Dashboard App
+Search a city and display the current weather and 5-day forecast.
+Add cities to a list of favorites.
+Remove cities from the list of favorites.
+Display weather data for favorite cities same dashboard.
+saw last search city localStoarage add favorits city (http://localhost:3000/favorites)
 
 Currently, two official plugins are available:
 
